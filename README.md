@@ -4,6 +4,6 @@ Within this repository we have the information from the paper "Genetic associati
 
 Within this repository you can find:
 
-1. Functions created for the analysis
+1. Raw data
 2. Scripts used
 3. Main Results
